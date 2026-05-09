@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Mini_Mars_Rover.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>2048</length>
+      <used>22</used>
+      <free>2026</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>16128</length>
+      <used>8046</used>
+      <free>8082</free>
+    </memory>
+  </executable>
+</project>
