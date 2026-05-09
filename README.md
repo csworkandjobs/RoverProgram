@@ -1,5 +1,5 @@
 # RoverProgram
-Program for a Mini Mars Rover project.  Programmed in C to be used in an embedded system.  Chip used was the Microchip PIC24.
+Program for a Mini Mars Rover project.  Programmed in C to be used in an embedded system.  Chip used was the Microchip PIC24.  Program would be complied using the MPLAB X IDE and installed using the MPLAB SNAP programmer.
 
 V10 - Heavily tested and proven version of the program.  Tested 94% reliable version (50 out of 53 successful tests).  Prioritized reliability over speed (though was still capable of completing all tasks in approximately 50 seconds).  Not used in competition.
 
